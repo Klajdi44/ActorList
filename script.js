@@ -42,7 +42,6 @@ fetch(url)
         modal.style.display = 'none';
       }
 
-
       main.appendChild(clone);
     });
   })
